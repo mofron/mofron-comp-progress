@@ -1,2 +1,2 @@
-# mofron-parts-progress
+# mofron-comp-progress
 progress component for mofron
